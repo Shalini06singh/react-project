@@ -1,5 +1,13 @@
 # React + Vite
 
+Project Link : https://react-project-nine-peach.vercel.app/
+
+1.Clone this project 
+
+2. npm init
+   
+3.To run this application: npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
